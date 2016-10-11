@@ -1,1 +1,0 @@
-chupa meu ovo roger
