@@ -5,8 +5,17 @@
     <Transaction>2016/10/11 21:14:03.000.311,=C:\Users\julian\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
     <Transaction>2016/10/11 21:42:28.000.395,C:\Users\julian\Documents\RAD Studio\Projects\UnCliente.dfm=C:\Users\julian\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
     <Transaction>2016/10/11 21:42:28.000.395,C:\Users\julian\Documents\RAD Studio\Projects\UnCliente.pas=C:\Users\julian\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2016/10/11 21:43:45.000.037,C:\Users\julian\Documents\RAD Studio\Projects\DmConexao.pas=C:\Users\julian\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
     <Transaction>2016/10/11 21:43:45.000.037,C:\Users\julian\Documents\RAD Studio\Projects\DmConexao.dfm=C:\Users\julian\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2016/10/11 21:43:45.000.037,C:\Users\julian\Documents\RAD Studio\Projects\DmConexao.pas=C:\Users\julian\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
     <Transaction>2016/10/11 21:44:03.000.784,C:\Users\julian\Documents\RAD Studio\Projects\PowerRanger.dproj=C:\Users\julian\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/11/01 20:10:27.000.241,=C:\Users\julian\Documents\faculdade\6° periodo\engenharia de software\PowerRanger\PowerRanger\Unit2.pas</Transaction>
+    <Transaction>2016/11/01 20:10:43.000.309,C:\Users\julian\Documents\faculdade\6° periodo\engenharia de software\PowerRanger\PowerRanger\Unit2.pas=C:\Users\julian\Documents\faculdade\6° periodo\engenharia de software\PowerRanger\PowerRanger\UnCompras.pas</Transaction>
+    <Transaction>2016/11/01 20:10:43.000.309,C:\Users\julian\Documents\faculdade\6° periodo\engenharia de software\PowerRanger\PowerRanger\Unit2.dfm=C:\Users\julian\Documents\faculdade\6° periodo\engenharia de software\PowerRanger\PowerRanger\UnCompras.dfm</Transaction>
+    <Transaction>2016/11/01 20:19:21.000.925,=C:\Users\julian\Documents\faculdade\6° periodo\engenharia de software\PowerRanger\PowerRanger\Unit3.pas</Transaction>
+    <Transaction>2016/11/01 20:19:37.000.661,C:\Users\julian\Documents\faculdade\6° periodo\engenharia de software\PowerRanger\PowerRanger\Unit3.pas=C:\Users\julian\Documents\faculdade\6° periodo\engenharia de software\PowerRanger\PowerRanger\UnMenuPrincipal.pas</Transaction>
+    <Transaction>2016/11/01 20:19:37.000.661,C:\Users\julian\Documents\faculdade\6° periodo\engenharia de software\PowerRanger\PowerRanger\Unit3.dfm=C:\Users\julian\Documents\faculdade\6° periodo\engenharia de software\PowerRanger\PowerRanger\UnMenuPrincipal.dfm</Transaction>
+    <Transaction>2016/11/08 20:10:33.306,=C:\Users\julian\Documents\faculdade\6° periodo\engenharia de software\PowerRanger\PowerRanger\Unit1.pas</Transaction>
+    <Transaction>2016/11/08 20:16:32.734,C:\Users\julian\Documents\faculdade\6° periodo\engenharia de software\PowerRanger\PowerRanger\UnFornecedores.pas=C:\Users\julian\Documents\faculdade\6° periodo\engenharia de software\PowerRanger\PowerRanger\Unit1.pas</Transaction>
+    <Transaction>2016/11/08 20:16:32.734,C:\Users\julian\Documents\faculdade\6° periodo\engenharia de software\PowerRanger\PowerRanger\UnFornecedores.dfm=C:\Users\julian\Documents\faculdade\6° periodo\engenharia de software\PowerRanger\PowerRanger\Unit1.dfm</Transaction>
   </Transactions>
 </BorlandProject>

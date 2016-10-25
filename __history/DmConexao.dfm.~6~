@@ -1,0 +1,90 @@
+object DataModule2: TDataModule2
+  OldCreateOrder = False
+  Height = 258
+  Width = 385
+  object Conexao: TFDConnection
+    Params.Strings = (
+      'Database=powerranger'
+      'User_Name=root'
+      'DriverID=MySQL')
+    LoginPrompt = False
+    Left = 48
+    Top = 24
+  end
+  object FDGUIxWaitCursor1: TFDGUIxWaitCursor
+    Provider = 'Forms'
+    Left = 48
+    Top = 88
+  end
+  object FDQuery1: TFDQuery
+    Connection = Conexao
+    SQL.Strings = (
+      'SELECT `idCliente`, '
+      '`nome`,'
+      '`telefone`,'
+      '`cpf`,'
+      '`endereco`,'
+      '`municipio`,'
+      '`estado`,'
+      '`nivel`'
+      'FROM `cliente`')
+    Left = 120
+    Top = 24
+    object FDQuery1idCliente: TFDAutoIncField
+      FieldName = 'idCliente'
+      Origin = 'idCliente'
+      ProviderFlags = [pfInWhere, pfInKey]
+    end
+    object FDQuery1nome: TStringField
+      AutoGenerateValue = arDefault
+      DisplayLabel = 'Nome:'
+      FieldName = 'nome'
+      Origin = 'nome'
+      Size = 50
+    end
+    object FDQuery1telefone: TIntegerField
+      AutoGenerateValue = arDefault
+      DisplayLabel = 'Fone:'
+      FieldName = 'telefone'
+      Origin = 'telefone'
+    end
+    object FDQuery1cpf: TIntegerField
+      AutoGenerateValue = arDefault
+      DisplayLabel = 'CPF:'
+      FieldName = 'cpf'
+      Origin = 'cpf'
+    end
+    object FDQuery1endereco: TStringField
+      AutoGenerateValue = arDefault
+      DisplayLabel = 'Endere'#231'o:'
+      FieldName = 'endereco'
+      Origin = 'endereco'
+      Size = 50
+    end
+    object FDQuery1municipio: TStringField
+      AutoGenerateValue = arDefault
+      DisplayLabel = 'Municip'#237'o:'
+      FieldName = 'municipio'
+      Origin = 'municipio'
+      Size = 50
+    end
+    object FDQuery1estado: TStringField
+      AutoGenerateValue = arDefault
+      DisplayLabel = 'Estado:'
+      FieldName = 'estado'
+      Origin = 'estado'
+      Size = 50
+    end
+    object FDQuery1nivel: TStringField
+      AutoGenerateValue = arDefault
+      DisplayLabel = 'N'#237'vel:'
+      FieldName = 'nivel'
+      Origin = 'nivel'
+      Size = 50
+    end
+  end
+  object FDPhysMySQLDriverLink1: TFDPhysMySQLDriverLink
+    Left = 56
+    Top = 160
+  end
+end
