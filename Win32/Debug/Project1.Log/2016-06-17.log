@@ -1,0 +1,8 @@
+﻿19:37:46:346 [           07120] ENTER: Config default values
+19:37:46:364 [           07120] EXIT: Config default values
+19:37:46:364 [           07120] >> Custom configuration proc
+19:37:46:364 [           07120] << Custom configuration proc
+19:37:46:364 [           07120] ENTER: LoadSystemControllers
+19:37:46:364 [           07120] EXIT: LoadSystemControllers
+19:37:46:365 [           07120] GET:/ -> Unit1.TMyController - 200 OK
+19:37:46:461 [           07688] GET:/favicon.ico -> NO ACTION  - 404 Not Found

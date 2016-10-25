@@ -1,0 +1,14 @@
+object DataModule2: TDataModule2
+  OldCreateOrder = False
+  Height = 258
+  Width = 385
+  object Conexao: TFDConnection
+    Params.Strings = (
+      'Database=powerranger'
+      'User_Name=root'
+      'DriverID=MySQL')
+    LoginPrompt = False
+    Left = 48
+    Top = 24
+  end
+end

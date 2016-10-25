@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/10/11 21:08:29.000.785,=C:\Users\julian\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/11 21:14:03.000.311,=C:\Users\julian\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/10/11 21:42:28.000.395,C:\Users\julian\Documents\RAD Studio\Projects\UnCliente.dfm=C:\Users\julian\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/10/11 21:42:28.000.395,C:\Users\julian\Documents\RAD Studio\Projects\UnCliente.pas=C:\Users\julian\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/10/11 21:43:45.000.037,C:\Users\julian\Documents\RAD Studio\Projects\DmConexao.pas=C:\Users\julian\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/10/11 21:43:45.000.037,C:\Users\julian\Documents\RAD Studio\Projects\DmConexao.dfm=C:\Users\julian\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2016/10/11 21:44:03.000.784,C:\Users\julian\Documents\RAD Studio\Projects\PowerRanger.dproj=C:\Users\julian\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
